@@ -1,2 +1,2 @@
 # Personal
-Playing around with python for personal use
+Playing around with python for domestic use
